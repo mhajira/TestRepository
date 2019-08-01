@@ -7,6 +7,8 @@ sudo su
 yum update -y
 yum install -y java-1.8.0-openjdk.x86_64
 
+nohup java -jar discovery-server-0.0.1.SNAPSHOT.jar &
+
 
 https://tomcat.apache.org/maven-plugin-2.2/tomcat7-maven-plugin/adjust-embedded-tomcat-version.html
 -------------------------------------
