@@ -2,6 +2,11 @@
 
 https://340104922532.signin.aws.amazon.com/console
 
+Install Java in Putty
+sudo su
+yum update -y
+yum install -y java-1.8.0-openjdk.x86_64
+
 -------------------------------------
 /var/log/httpd/elasticbeanstalk-access_log
 -------------------------------------
