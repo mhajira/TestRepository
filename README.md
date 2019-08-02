@@ -6,7 +6,8 @@ Discovery Server
 http://ec2-13-59-147-29.us-east-2.compute.amazonaws.com:8761/
 Time Service
 http://ec2-18-220-250-1.us-east-2.compute.amazonaws.com:9003/
-
+Weather Service
+http://ec2-18-188-87-111.us-east-2.compute.amazonaws.com:9001/weather
 
 Install Java in Putty
 sudo su
